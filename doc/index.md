@@ -2,7 +2,7 @@
 
 Hola
 
-Ejemplo de integración continúa para
+Ejemplo de integración continuxa para
 
 * Esto es una prueba
-* Esto es un ersdsjklajd
+* Esto no es un error
