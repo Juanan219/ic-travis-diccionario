@@ -2,7 +2,7 @@ branches:
   except:
     - gh-pages
 language: C
-complier:
+compiler:
   - gcc
 before_install:
   - sudo apt-get install aspell-es 
